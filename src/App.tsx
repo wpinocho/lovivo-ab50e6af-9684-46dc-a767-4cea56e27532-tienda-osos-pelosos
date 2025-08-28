@@ -11,6 +11,7 @@ import Index from "./pages/Index";
 import Index from "./pages/Index";
 import Index from "./pages/Index";
 import AboutUs from "./pages/AboutUs";
+import Index from "./pages/Index";
 
 const queryClient = new QueryClient();
 
@@ -30,6 +31,7 @@ const App = () => (
         <Route path="/index" element={<Index />} />
         <Route path="/index" element={<Index />} />
         <Route path="/aboutus" element={<AboutUs />} />
+        <Route path="/index" element={<Index />} />
         </Routes>
       </BrowserRouter>
     </TooltipProvider>

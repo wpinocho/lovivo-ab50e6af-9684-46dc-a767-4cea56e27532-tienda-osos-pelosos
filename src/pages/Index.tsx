@@ -84,7 +84,7 @@ const Index = () => {
               <div className="flex flex-col sm:flex-row gap-4 justify-center items-center">
                 <Button 
                   size="lg" 
-                  className="bg-gradient-to-r from-red-500 to-pink-600 hover:from-red-600 hover:to-pink-700 text-white px-8 py-4 text-lg font-semibold shadow-lg hover:shadow-xl transform hover:scale-105 transition-all duration-300"
+                  className="bg-gradient-to-r from-purple-500 to-purple-600 hover:from-purple-600 hover:to-purple-700 text-white px-8 py-4 text-lg font-semibold shadow-lg hover:shadow-xl transform hover:scale-105 transition-all duration-300"
                   onClick={() => document.getElementById('products')?.scrollIntoView({ behavior: 'smooth' })}
                 >
                   <Heart className="w-5 h-5 mr-2" />
