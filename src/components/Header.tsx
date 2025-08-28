@@ -21,7 +21,7 @@ const Header: React.FC = () => {
               Catálogo
             </a>
             <a href="#" className="text-gray-700 hover:text-pink-600 transition-colors">
-              Sobre Nosotros
+              SOBRE NOSOTROS SI!
             </a>
             <a href="#" className="text-gray-700 hover:text-pink-600 transition-colors">
               Contacto
