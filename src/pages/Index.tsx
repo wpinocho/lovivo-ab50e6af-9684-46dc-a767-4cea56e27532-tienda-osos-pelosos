@@ -87,7 +87,7 @@ const Index = () => {
                   onClick={() => document.getElementById('products')?.scrollIntoView({ behavior: 'smooth' })}
                 >
                   <Heart className="w-5 h-5 mr-2" />
-                  Ver Colección
+                  Colección
                 </Button>
                 <Button 
                   variant="outline" 
