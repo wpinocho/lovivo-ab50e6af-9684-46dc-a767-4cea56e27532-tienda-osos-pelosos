@@ -42,7 +42,7 @@ const AboutUs = () => {
                 </h2>
                 <div className="space-y-4 text-lg text-gray-700">
                   <p>
-                    Todo comenzó con un sueño simple: crear los osos de peluche más adorables y de mejor calidad del mundo. En 2020, fundamos <span className="font-semibold text-pink-600">Osos Peluditos</span> con la misión de llevar alegría y confort a hogares de todo el mundo.
+                    Todo comenzó con un sueño simple: crear los osos de peluche más adorables y de mejor calidad del mundo. En 2020, fundamos <span className="font-semibold text-pink-600">Peluditos Favoritos</span> con la misión de llevar alegría y confort a hogares de todo el mundo.
                   </p>
                   <p>
                     Cada uno de nuestros osos está diseñado con amor y fabricado con los materiales más suaves y seguros. Creemos que un abrazo puede cambiar el día de cualquier persona, y nuestros osos están aquí para brindar esos abrazos especiales.
@@ -291,8 +291,8 @@ const AboutUs = () => {
         {/* Footer */}
         <footer className="bg-gray-800 text-white py-8">
           <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
-            <p className="text-lg mb-2">🧸 Osos Peluditos - Donde cada abrazo cuenta 🧸</p>
-            <p className="text-gray-400">© 2024 Osos Peluditos. Todos los derechos reservados.</p>
+            <p className="text-lg mb-2">🧸 Peluditos Favoritos - Donde cada abrazo cuenta 🧸</p>
+            <p className="text-gray-400">© 2024 Peluditos Favoritos. Todos los derechos reservados.</p>
           </div>
         </footer>
       </div>

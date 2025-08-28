@@ -62,7 +62,7 @@ const Index = () => {
 
               {/* Main title with gradient text */}
               <h1 className="text-5xl md:text-7xl lg:text-8xl font-bold mb-6 bg-gradient-to-r from-red-600 via-pink-600 to-purple-600 bg-clip-text text-transparent leading-tight">
-                🧸 Osos Peluditos 🧸
+                🧸 Peluditos Favoritos 🧸
               </h1>
               
               {/* Subtitle */}
@@ -127,7 +127,7 @@ const Index = () => {
           <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
             <div className="text-center mb-16">
               <h2 className="text-4xl md:text-5xl font-bold text-gray-900 mb-6">
-                ¿Por qué elegir nuestros Osos Peluditos? 🌟
+                ¿Por qué elegir nuestros Peluditos Favoritos? 🌟
               </h2>
               <p className="text-xl text-gray-600 max-w-3xl mx-auto">
                 Cada oso está diseñado para brindar amor, confort y alegría. Descubre todos los beneficios que nuestros peluches pueden aportar a tu vida.
@@ -231,7 +231,7 @@ const Index = () => {
               <div className="bg-gradient-to-r from-red-500 via-pink-500 to-purple-500 rounded-3xl p-8 text-white">
                 <h3 className="text-3xl font-bold mb-4">¡Experimenta todos estos beneficios hoy! 🎉</h3>
                 <p className="text-xl mb-6 opacity-90">
-                  Miles de familias ya disfrutan de la magia de nuestros Osos Peluditos
+                  Miles de familias ya disfrutan de la magia de nuestros Peluditos Favoritos
                 </p>
                 <Button 
                   size="lg" 
@@ -278,8 +278,8 @@ const Index = () => {
         {/* Footer */}
         <footer className="bg-gray-800 text-white py-8">
           <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
-            <p className="text-lg mb-2">🧸 Osos Peluditos - Donde cada abrazo cuenta 🧸</p>
-            <p className="text-gray-400">© 2024 Osos Peluditos. Todos los derechos reservados.</p>
+            <p className="text-lg mb-2">🧸 Peluditos Favoritos - Donde cada abrazo cuenta 🧸</p>
+            <p className="text-gray-400">© 2024 Peluditos Favoritos. Todos los derechos reservados.</p>
           </div>
         </footer>
       </div>

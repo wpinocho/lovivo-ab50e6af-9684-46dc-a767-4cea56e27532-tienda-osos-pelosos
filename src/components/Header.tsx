@@ -17,7 +17,7 @@ const Header: React.FC = () => {
           <div className="flex items-center space-x-2 cursor-pointer" onClick={() => handleNavigation('/')}>
             <Heart className="w-8 h-8 text-pink-500" />
             <h1 className="text-2xl font-bold text-gray-900">
-              Osos Peluditos
+              Peluditos Favoritos
             </h1>
           </div>
           <nav className="hidden md:flex space-x-8">

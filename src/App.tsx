@@ -9,6 +9,8 @@ import NotFound from "./pages/NotFound";
 import Index from "./pages/Index";
 import Index from "./pages/Index";
 import Index from "./pages/Index";
+import Index from "./pages/Index";
+import AboutUs from "./pages/AboutUs";
 
 const queryClient = new QueryClient();
 
@@ -26,6 +28,8 @@ const App = () => (
         <Route path="/index" element={<Index />} />
         <Route path="/index" element={<Index />} />
         <Route path="/index" element={<Index />} />
+        <Route path="/index" element={<Index />} />
+        <Route path="/aboutus" element={<AboutUs />} />
         </Routes>
       </BrowserRouter>
     </TooltipProvider>
