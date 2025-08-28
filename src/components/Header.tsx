@@ -36,9 +36,6 @@ const Header: React.FC = () => {
             >
               SOBRE NOSOTROS SI!
             </button>
-            <a href="#" className="text-gray-700 hover:text-pink-600 transition-colors">
-              Contacto
-            </a>
           </nav>
           <ShoppingCart />
         </div>
