@@ -28,7 +28,7 @@ const Header: React.FC = () => {
               Inicio
             </button>
             <a href="#products" className="text-gray-700 hover:text-pink-600 transition-colors">
-              Catálogo
+              El Mejor Catálogo
             </a>
             <button 
               onClick={() => handleNavigation('/sobre-nosotros')}
